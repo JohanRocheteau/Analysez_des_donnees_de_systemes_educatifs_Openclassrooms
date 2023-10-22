@@ -19,15 +19,15 @@
  
 
 ## **Réalisations :**
-- **Librairies** : Pandas, Matplotlib, Seaborn, Numpy, random, sklearn
-- **Etapes** :
+- **Librairies principales** : Pandas, Matplotlib, Seaborn, Numpy, random, sklearn
+- **Etapes réalisées** :
     - Ouverture des fichiers
     - Analyse de la qualité des données (df.isna(), df.info(), df.shape(), df.duplicated()...)
     - Etude de la pertinance des indicateurs en fonction de l'objectif du projet (Nb d'incateurs, Nb de pays/indicateurs, Années pertinantes...)
     - Merge des fichiers après nettoyage.
-    - Réalisation de différents graphiques :
-        - ![Indicateurs](PhotosReadme/Graph1.png)
-        - ![Indicateurs](PhotosReadme/Graph2.png)
-        - ![Indicateurs](PhotosReadme/Graph3.png)
-        - ![Indicateurs](PhotosReadme/Graph4.png)
-        - ![Indicateurs](PhotosReadme/Graph5.png)            
+    - Réalisation de différents tableaux et graphiques pour répondre à la problèmatique :
+          ![Indicateurs](PhotosReadme/Graph1.png)
+          ![Indicateurs](PhotosReadme/Graph2.png)
+          ![Indicateurs](PhotosReadme/Graph3.png)
+          ![Indicateurs](PhotosReadme/Graph4.png)
+          ![Indicateurs](PhotosReadme/Graph5.png)            
