@@ -16,3 +16,14 @@
     - Décrire les informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
     - Sélectionner les informations qui semblent pertinentes pour répondre à la problématique (quelles sont les colonnes contenant des informations qui peuvent être utiles pour répondre à la problématique de l’entreprise ?)
     - Déterminer des ordres de grandeurs des indicateurs statistiques classiques pour les différentes zones géographiques et pays du monde (moyenne/médiane/écart-type par pays et par continent ou bloc géographique)
+ 
+
+## **Réalisations :**
+- **Librairies** : Pandas, Matplotlib, Seaborn, Numpy, random, sklearn
+- **Etapes** :
+    - Ouverture des fichiers
+    - Analyse de la qualité des données (df.isna(), df.info(), df.shape(), df.duplicated()...)
+    - Etude de la pertinance des indicateurs en fonction de l'objectif du projet (Nb d'incateurs, Nb de pays/indicateurs, Années pertinantes...)
+    - Merge des fichiers après nettoyage.
+    - Réalisation de différents graphiques :
+        - ![Indicateurs]()          
