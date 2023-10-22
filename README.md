@@ -3,7 +3,7 @@
 ## **Mise en situation :**
 - **Entreprise** : Academy.
 - **Logo** : ![Logo](PhotosReadme/LogoP1.png)
-- **Fonction** : Propose des contenus de formation en ligne pour un public de niveau lycée et université.
+- **Activité** : Propose des contenus de formation en ligne pour un public de niveau lycée et université.
 - **But** : Déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
 - **Jeux de données** : https://datacatalog.worldbank.org/dataset/education-statistics ou [Téléchargement direct](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip)
 - **Questions** : 
