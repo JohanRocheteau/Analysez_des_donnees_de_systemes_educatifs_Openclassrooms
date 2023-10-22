@@ -1,10 +1,10 @@
-# Analysez des données de systèmes éducatifs
+# Projet N°1 : Analysez des données de systèmes éducatifs
 
-Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
-Votre entreprise EdTech
-Votre entreprise EdTech
-
-Mark, votre manager, vous a convié à une réunion pour vous présenter le projet d’expansion à l’international de l’entreprise. Il vous confie une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
+**Mise en situation :**
+- Entreprise : Academy
+- Fonction : Propose des contenus de formation en ligne pour un public de niveau lycée et université.
+- But : Déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
+- Jeux de données : https://datacatalog.worldbank.org/dataset/education-statistics ou [Téléchargement direct](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip)
 
 Voici les différentes questions que Mark aimerait explorer, que vous avez notées durant la réunion :
 
@@ -20,7 +20,7 @@ Mark vous a donc demandé de réaliser une analyse pré-exploratoire de ce jeu d
 
     Les données de la Banque mondiale sont disponibles à l’adresse suivante :
 
-    https://datacatalog.worldbank.org/dataset/education-statistics
+    
 
     Ou en téléchargement direct à ce lien.
 
