@@ -26,8 +26,13 @@
     - Etude de la pertinance des indicateurs en fonction de l'objectif du projet (Nb d'incateurs, Nb de pays/indicateurs, Années pertinantes...)
     - Merge des fichiers après nettoyage.
     - Réalisation de différents tableaux et graphiques pour répondre à la problèmatique :
+  
           ![Indicateurs](PhotosReadme/Graph1.png)
+      
           ![Indicateurs](PhotosReadme/Graph2.png)
+      
           ![Indicateurs](PhotosReadme/Graph3.png)
+      
           ![Indicateurs](PhotosReadme/Graph4.png)
+      
           ![Indicateurs](PhotosReadme/Graph5.png)            
