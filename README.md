@@ -1,38 +1,81 @@
-# Projet N°1 : Analysez des données de systèmes éducatifs
+# 📊 Projet N°1 : Analyse des données de systèmes éducatifs  
 
-## **Mise en situation :**
-- **Entreprise** : Academy.
-- **Logo** : ![Logo](PhotosReadme/LogoP1.png)
-- **Activité** : Propose des contenus de formation en ligne pour un public de niveau lycée et université.
-- **But** : Déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion.
-- **Jeux de données** : https://datacatalog.worldbank.org/dataset/education-statistics ou [Téléchargement direct](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip)
-- **Questions** : 
-    - Quels sont les pays avec un fort potentiel de clients pour nos services ?
-    - Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
-    - Dans quels pays l'entreprise doit-elle opérer en priorité ?
+![Logo](PhotosReadme/LogoP1.png)  
 
-- **Missions** :
-    - Valider la qualité de ce jeu de données (comporte-t-il beaucoup de données manquantes, dupliquées ?)
-    - Décrire les informations contenues dans le jeu de données (nombre de colonnes ? nombre de lignes ?)
-    - Sélectionner les informations qui semblent pertinentes pour répondre à la problématique (quelles sont les colonnes contenant des informations qui peuvent être utiles pour répondre à la problématique de l’entreprise ?)
-    - Déterminer des ordres de grandeurs des indicateurs statistiques classiques pour les différentes zones géographiques et pays du monde (moyenne/médiane/écart-type par pays et par continent ou bloc géographique)
- 
+## **📌 Contexte et Objectif**  
 
-## **Réalisations :**
-- **Librairies principales** : Pandas, Matplotlib, Seaborn, Numpy, random, sklearn
-- **Etapes réalisées** :
-    - Ouverture des fichiers
-    - Analyse de la qualité des données (df.isna(), df.info(), df.shape(), df.duplicated()...)
-    - Etude de la pertinance des indicateurs en fonction de l'objectif du projet (Nb d'incateurs, Nb de pays/indicateurs, Années pertinantes...)
-    - Merge des fichiers après nettoyage.
-    - Réalisation de différents tableaux et graphiques pour répondre à la problèmatique :
-  
-      ![Indicateurs](PhotosReadme/Graph1.png)
-      
-      ![Indicateurs](PhotosReadme/Graph2.png)
-      
-      ![Indicateurs](PhotosReadme/Graph3.png)
-      
-      ![Indicateurs](PhotosReadme/Graph4.png)
-      
-      ![Indicateurs](PhotosReadme/Graph5.png)            
+L'entreprise **Academy**, spécialisée dans la formation en ligne pour lycéens et étudiants, souhaite **identifier les pays à fort potentiel pour son expansion**.  
+
+### 🔍 **Problématiques étudiées :**  
+- Quels sont les pays ayant **le plus grand nombre de clients potentiels** ?  
+- Quelle sera **l’évolution de ce marché** dans les années à venir ?  
+- **Dans quels pays** Academy devrait-elle se lancer en priorité ?  
+
+📂 **Jeux de données :**  
+- 📊 Source : [Banque mondiale - Education Statistics](https://datacatalog.worldbank.org/dataset/education-statistics)  
+- 📥 [Téléchargement direct du dataset](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip)  
+
+---
+
+## **🚀 Réalisations et Méthodologie**  
+
+### 🔹 **1️⃣ Chargement et Exploration des données**  
+- Vérification des fichiers et des colonnes disponibles  
+- Identification des valeurs manquantes et doublons  
+- Étude des types de données et pertinence des indicateurs  
+
+### 🔹 **2️⃣ Nettoyage et Préparation des données**  
+- Sélection des colonnes les plus utiles  
+- Fusion des fichiers après nettoyage  
+- Traitement des valeurs aberrantes  
+
+### 🔹 **3️⃣ Analyse et Visualisation**  
+- Étude des tendances globales et régionales  
+- Analyse comparative des indicateurs éducatifs et économiques  
+- Création de graphiques pour illustrer les résultats  
+
+📊 **Exemples de visualisations :**  
+
+![Graphique 1](PhotosReadme/Graph1.png)  
+![Graphique 2](PhotosReadme/Graph2.png)  
+![Graphique 3](PhotosReadme/Graph3.png)  
+![Graphique 4](PhotosReadme/Graph4.png)  
+![Graphique 5](PhotosReadme/Graph5.png)  
+
+---
+
+## **📈 Résultats et Insights Clés**  
+
+### 🔎 **Conclusions de l'analyse :**  
+✔ Certains pays présentent **un fort taux d’inscription** et un **investissement croissant** dans l’éducation.  
+✔ Les tendances démographiques montrent que **[Nom des régions]** seront des zones stratégiques pour Academy.  
+✔ Certains pays nécessitent **une meilleure couverture des données** pour une analyse plus fiable.  
+
+### 📌 **Recommandations pour Academy :**  
+1️⃣ Cibler **[Nom des pays]** pour une première expansion.  
+2️⃣ Surveiller l'évolution des inscriptions dans **[Autres régions]**.  
+3️⃣ Améliorer la collecte et la qualité des données pour affiner les prévisions.  
+
+---
+
+## **🛠️ Technologies et Outils Utilisés**  
+
+- **Langage** : Python 🐍  
+- **Librairies** : Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Environnement** : Jupyter Notebook  
+- **Méthodes utilisées** : Statistiques descriptives, Data Visualization, Data Cleaning  
+
+---
+
+## **📬 Contact et Feedback**  
+
+💡 Ce projet a été réalisé dans le cadre d’une **formation en Data Science**. N’hésitez pas à **laisser vos suggestions** ou à me **contacter** pour en discuter !  
+
+📩 **Contact :**  
+📧 [Votre Email]  
+🔗 [Votre LinkedIn]  
+
+---
+
+✅ **Mise à jour** : Version optimisée pour une meilleure lisibilité et clarté (📅 Février 2025)  
+
