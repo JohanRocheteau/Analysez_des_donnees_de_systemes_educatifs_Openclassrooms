@@ -22,11 +22,11 @@ L'entreprise **Academy**, spécialisée dans la formation en ligne pour lycéens
 ### 🔹 **1️⃣ Chargement et Exploration des données**  
 - Vérification des fichiers et des colonnes disponibles  
 - Identification des valeurs manquantes et doublons  
-- Étude des types de données et pertinence des indicateurs  
+- Analyse des types de données et évaluation de la pertinence des indicateurs  
 
 ### 🔹 **2️⃣ Nettoyage et Préparation des données**  
 - Sélection des colonnes les plus utiles  
-- Fusion des fichiers après nettoyage  
+- Agrégation des fichiers nettoyés  
 - Traitement des valeurs aberrantes  
 
 ### 🔹 **3️⃣ Analyse et Visualisation**  
@@ -47,14 +47,14 @@ L'entreprise **Academy**, spécialisée dans la formation en ligne pour lycéens
 ## **📈 Résultats et Insights Clés**  
 
 ### 🔎 **Conclusions de l'analyse :**  
-✔ Certains pays présentent **un fort taux d’inscription** et un **investissement croissant** dans l’éducation.  
-✔ Les tendances démographiques montrent que **[Nom des régions]** seront des zones stratégiques pour Academy.  
+✔ Certains pays présentent **un fort taux d’inscription** et un **investissement croissant dans le secteur éducatif**.  
+✔ Les tendances démographiques montrent que **les pays membres de l'OCDE** seront des zones stratégiques pour Academy.  
 ✔ Certains pays nécessitent **une meilleure couverture des données** pour une analyse plus fiable.  
 
 ### 📌 **Recommandations pour Academy :**  
-1️⃣ Cibler **[Nom des pays]** pour une première expansion.  
-2️⃣ Surveiller l'évolution des inscriptions dans **[Autres régions]**.  
-3️⃣ Améliorer la collecte et la qualité des données pour affiner les prévisions.  
+1️⃣ **Cibler les pays membres de l'OCDE** pour une première expansion.  
+2️⃣ **Surveiller l'évolution des inscriptions dans les pays à haut revenu hors OCDE**.  
+3️⃣ **Améliorer la collecte et la qualité des données** pour affiner les prévisions.  
 
 ---
 
@@ -72,10 +72,7 @@ L'entreprise **Academy**, spécialisée dans la formation en ligne pour lycéens
 💡 Ce projet a été réalisé dans le cadre d’une **formation en Data Science**. N’hésitez pas à **laisser vos suggestions** ou à me **contacter** pour en discuter !  
 
 📩 **Contact :**  
-📧 [Votre Email]  
-🔗 [Votre LinkedIn]  
-
----
-
+📧 [johan.rocheteau@hotmail.fr](mailto:johan.rocheteau@hotmail.fr)  
+🔗 [www.linkedin.com/in/johan-rocheteau](https://www.linkedin.com/in/johan-rocheteau)  
 ✅ **Mise à jour** : Version optimisée pour une meilleure lisibilité et clarté (📅 Février 2025)  
 
